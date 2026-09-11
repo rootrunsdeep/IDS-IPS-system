@@ -355,3 +355,24 @@ This project demonstrates a layered defense architecture that combines network m
 By integrating Suricata, Wazuh, Fail2Ban, and UFW, the solution provides a practical IDS/IPS platform capable of detecting security events, monitoring endpoints, centralizing alerts, and enforcing defensive actions through automated response mechanisms.
 
 Note: Sensitive information such as IP addresses, credentials, hostnames, enrollment keys, and environment-specific configurations have been anonymized or replaced with placeholders for security purposes.
+
+
+A NOTE ON USING AI
+
+Before writing this, I went through a lot of troubleshooting while working on this project. I encountered numerous errors, and while using AI for solutions, I realized that some fixes contradicted previous configurations or requirements. In some cases, fixing one problem created another.
+
+I eventually realized that the issue wasn’t always the AI,it was also about how I was prompting it and how much I was relying on it instead of applying what I already knew.
+
+So, as you work through this project, don’t be afraid to use AI. If you get confused, stuck, or encounter an error, use AI to help you understand the problem, explain concepts, troubleshoot, and point you in the right direction.
+
+However, use AI as a tool, not as your brain.
+
+Don’t simply copy and paste everything AI gives you without understanding it. If AI does everything for you, you may complete the project without actually learning anything. The goal is not just to get the project working; the goal is to understand why it works and how to troubleshoot it when something goes wrong.
+
+Also, take your time when prompting AI. Be specific about what you are trying to achieve, what you have already done, the errors you are seeing, and what you expect to happen. A poorly written prompt can lead to a solution that creates more problems.
+
+Most importantly, combine AI’s assistance with your own knowledge and reasoning. Think about the suggestions it gives you, verify them, and understand what you are changing before applying them.
+
+“AI is a tool, not your brain. Use it to sharpen your thinking, not replace it.”
+
+“Don’t let experience alone be the teacher. Learn from others while you have the opportunity.”
